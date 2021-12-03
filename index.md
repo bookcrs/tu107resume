@@ -1,5 +1,5 @@
 ## นายวรดนัย วงษ์มณี
-[Image] (https://drive.google.com/$typettps://drive.google.com/uc?export=download&id=1xAoCzV09IjTmBVve9TE_t0E6-BvDuDi)
+https://i.imgur.com/h2ksJJe.jpg
 ```ข้อมูลส่วนตัว
 สัญชาติ : ไทย
 ศาสนา : พุทธ
