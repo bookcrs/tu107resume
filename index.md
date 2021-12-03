@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bookcrs/tu107resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## นายวรดนัย วงษ์มณี
+[Image] (https://drive.google.com/$typettps://drive.google.com/uc?export=download&id=1xAoCzV09IjTmBVve9TE_t0E6-BvDuDi)
+```ข้อมูลส่วนตัว
+สัญชาติ : ไทย
+ศาสนา : พุทธ
+ที่อยู่ปัจจุบัน : 90/114 หมู่บ้านมัณฑนา พระยาสุเรนทร์26 รามอินทรา109 แขวงคลองสามวา เขตบางชัน กทม 10510
+เบอร์โทรศัพท์ : 0922683183
+อีเมล์ : bookcrs22@gmail.com
+วันเกิด : 29 กรกฎาคม 2546
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### ความสำเร็จ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bookcrs/tu107resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ -สําเร็จหลักสูตรรักษาดินแดน ปี3
+ -เข้าร่วมแข่งขันวันวิทยาศาสตร์
+ -ได้รับรางวัลคนดีศรีบดินทร
 
-### Support or Contact
+### ประวัติการศึกษา
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -ประถมศึกษา โรงเรียนโสมาภา นวมินทร์
+ -มัธยมศึกษาตอนต้นและปลาย โรงเรียนนวมินทราชินูทิศบดินทรเดชา
+ -กำลังศึกษาต่อที่มหาลัยธรรมศาสตร์ศูนย์รังสิต
+ 
+ ### งานอดิเรก
+ 
+ -ฟังเพลง
+ -เล่นเกม
+ -ดูหนัง
+ -ฟังเพลง
+
+### ทักษะและความสามารถพิเศษ
+ 
+ -สื่อสารภาษาอังกฤษได้รู้เรื่องพอใข้
+ -เล่นกีฬาบาสเก็ตบอลได้อย่างชำนาญ
+ -เล่นกีฬาฟุตบอลได้อย่างชำนาญ
